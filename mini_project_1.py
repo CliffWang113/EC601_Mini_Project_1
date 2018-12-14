@@ -107,7 +107,8 @@ def google_vision_api(video_name):
 
 if __name__ == '__main__':
 
-	twitt_account = '@vangoghartist'
+	twitt_account = '@taylornation13'
+	#twitt_account = '@vangoghartist'
 	download_pics(twitt_account)
 	making_video(twitt_account)
 	google_vision_api(twitt_account)
