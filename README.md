@@ -28,6 +28,10 @@ access_token_secret = 'please enter your access token secret'
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Please enter your Google application credential location"
 ```
 
+## Results
+
+![Example image_0](https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_0.jpg)
+
 ## Authors
 
 * **Chunpeng WANG** - *Initial work* - [CliffWang113](https://github.com/CliffWang113)
