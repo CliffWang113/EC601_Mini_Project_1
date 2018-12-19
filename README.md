@@ -29,7 +29,10 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Please enter your Google applica
 ```
 
 ## Results
-<img src="https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_0.jpg" height="250"><img src="https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_1.jpg" height="250">
+
+-The images are downloaded from the twitter account "@vangoghartist". Here are two sample images:
+	-<img src="https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_0.jpg" height="250">
+	-<img src="https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_1.jpg" height="250">
 
 ## Authors
 
