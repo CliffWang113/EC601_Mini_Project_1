@@ -11,12 +11,23 @@ This project is implemented for Boston University, EC601 Mini Project #1. The go
 * [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [Google Cloud Video Intelligence](https://cloud.google.com/video-intelligence/) - Search and discover media content with Google Video Intelligence.
 
+## Get Started
+
+* Enter your keys for your twitter's developer account at here:
+
+```
+consumer_key = 'Please enter your consumer key'
+consumer_secret = 'Please enter your consumer secret'
+access_token = 'Please enter your access token'
+access_token_secret = 'please enter your access token secret'
+```
+
+* Enter your Google Application Credintial's location at here:
+
+```
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Please enter your Google application credential location"
+```
+
 ## Authors
 
 * **Chunpeng WANG** - *Initial work* - [CliffWang113](https://github.com/CliffWang113)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
