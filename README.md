@@ -30,7 +30,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Please enter your Google applica
 
 ## Results
 
-![Example image_0](https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_0.jpg)
+![Example image_0](https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_0.jpg)![Eample image_1](https://github.com/CliffWang113/EC601_Mini_Project_1/blob/master/image_1.jpg)
 
 ## Authors
 
