@@ -1,5 +1,9 @@
 # EC601_Mini_Project_1
-This project is implemented for Boston University, EC601 Mini Project #1. The goal of this Mini Porject is to get familiar with the APIs.
+This project is implemented for Boston University, EC601 Mini Project #1. The goal of this Mini Porject is to get familiar with the APIs. The functions includes:
+
+* Download images from the designate twitter account timeline.
+* Convert the images into a video.
+* Analysis the content of the video and generate a label for the video.
 
 ## APIs
 
@@ -10,8 +14,6 @@ This project is implemented for Boston University, EC601 Mini Project #1. The go
 ## Authors
 
 * **Chunpeng WANG** - *Initial work* - [CliffWang113](https://github.com/CliffWang113)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Acknowledgments
 
